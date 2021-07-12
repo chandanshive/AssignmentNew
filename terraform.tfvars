@@ -1,0 +1,5 @@
+product = "Accurics"
+environment = "prod"
+ec2_class = "t2.micro"
+ami = "ami-00399ec92321828f5"
+subnet_la = "vpc-a5a364ce"
